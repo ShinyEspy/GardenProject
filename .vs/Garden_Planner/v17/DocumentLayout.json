@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Unity\\Garden_Planner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|c:\\users\\user\\unity\\garden_planner\\assets\\scripts\\2_gardenbt\\behaviourtreeexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\2_gardenbt\\behaviourtreeexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|C:\\Users\\User\\Unity\\Garden_Planner\\assets\\scripts\\3_gardenpathfinder\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\3_gardenpathfinder\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|C:\\Users\\User\\Unity\\Garden_Planner\\assets\\scripts\\3_gardenpathfinder\\bresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\3_gardenpathfinder\\bresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|C:\\Users\\User\\Unity\\Garden_Planner\\assets\\scripts\\3_gardenpathfinder\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\3_gardenpathfinder\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|C:\\Users\\User\\Unity\\Garden_Planner\\assets\\scripts\\3_gardenpathfinder\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\3_gardenpathfinder\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|C:\\Users\\User\\Unity\\Garden_Planner\\assets\\scripts\\3_gardenpathfinder\\nodepathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\3_gardenpathfinder\\nodepathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|C:\\Users\\User\\Unity\\Garden_Planner\\assets\\scripts\\1_gardenplanner\\nodeplanning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1_gardenplanner\\nodeplanning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|C:\\Users\\User\\Unity\\Garden_Planner\\assets\\scripts\\1_gardenplanner\\planning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1_gardenplanner\\planning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|C:\\Users\\User\\Unity\\Garden_Planner\\assets\\scripts\\4_otherscripts\\wateringcancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\4_otherscripts\\wateringcancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|C:\\Users\\User\\Unity\\Garden_Planner\\assets\\scripts\\1_gardenplanner\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1_gardenplanner\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|C:\\Users\\User\\Unity\\Garden_Planner\\assets\\scripts\\1_gardenplanner\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC23A66-BD54-5680-203B-B531516E5612}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\1_gardenplanner\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BehaviourTreeExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\2_GardenBT\\BehaviourTreeExecutor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\2_GardenBT\\BehaviourTreeExecutor.cs",
+              "ToolTip": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\2_GardenBT\\BehaviourTreeExecutor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\2_GardenBT\\BehaviourTreeExecutor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T21:57:11.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\3_GardenPathfinder\\Unit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\3_GardenPathfinder\\Unit.cs",
+              "ToolTip": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\3_GardenPathfinder\\Unit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\3_GardenPathfinder\\Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:16:22.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pathfinding.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\3_GardenPathfinder\\Pathfinding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\3_GardenPathfinder\\Pathfinding.cs",
+              "ToolTip": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\3_GardenPathfinder\\Pathfinding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\3_GardenPathfinder\\Pathfinding.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAwwO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:16:33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NodePathfinding.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\3_GardenPathfinder\\NodePathfinding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\3_GardenPathfinder\\NodePathfinding.cs",
+              "ToolTip": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\3_GardenPathfinder\\NodePathfinding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\3_GardenPathfinder\\NodePathfinding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:16:32.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\3_GardenPathfinder\\Grid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\3_GardenPathfinder\\Grid.cs",
+              "ToolTip": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\3_GardenPathfinder\\Grid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\3_GardenPathfinder\\Grid.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowJ8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:16:31.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bresenham.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\3_GardenPathfinder\\Bresenham.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\3_GardenPathfinder\\Bresenham.cs",
+              "ToolTip": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\3_GardenPathfinder\\Bresenham.cs",
+              "RelativeToolTip": "Assets\\Scripts\\3_GardenPathfinder\\Bresenham.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:16:31.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NodePlanning.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\1_GardenPlanner\\NodePlanning.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1_GardenPlanner\\NodePlanning.cs",
+              "ToolTip": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\1_GardenPlanner\\NodePlanning.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1_GardenPlanner\\NodePlanning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T21:57:05.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Planning.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\1_GardenPlanner\\Planning.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1_GardenPlanner\\Planning.cs",
+              "ToolTip": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\1_GardenPlanner\\Planning.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1_GardenPlanner\\Planning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T21:56:52.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\1_GardenPlanner\\World.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1_GardenPlanner\\World.cs",
+              "ToolTip": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\1_GardenPlanner\\World.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1_GardenPlanner\\World.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T21:56:39.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Action.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\1_GardenPlanner\\Action.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\1_GardenPlanner\\Action.cs",
+              "ToolTip": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\1_GardenPlanner\\Action.cs",
+              "RelativeToolTip": "Assets\\Scripts\\1_GardenPlanner\\Action.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T21:57:08.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WateringCanController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\4_OtherScripts\\WateringCanController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\4_OtherScripts\\WateringCanController.cs",
+              "ToolTip": "C:\\Users\\User\\Unity\\Garden_Planner\\Assets\\Scripts\\4_OtherScripts\\WateringCanController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\4_OtherScripts\\WateringCanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T09:45:16.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
